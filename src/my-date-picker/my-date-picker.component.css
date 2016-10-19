@@ -16,10 +16,10 @@
 }
 
 .mydp .selector {
-    margin-top: 2px;
-    margin-left: -1px;
+    left: -15px;
+    margin-top: -10px;
     position: absolute;
-    width: 262px;
+    width: 275px;
     padding: 3px;
     border-radius: 2px;
     background-color: #DDD;
